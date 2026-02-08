@@ -7,7 +7,7 @@ body {
 
 /* Hero Section */
 .hero-text {
-  background: url('assets/images/wa.jpeg') no-repeat center center/cover;
+  background: url('assets/images/Ajeng-Adiem-5.jpeg') no-repeat center center/cover;
   padding: 4rem 2rem;
   text-align: center;
   color: white;
@@ -223,4 +223,5 @@ body {
     font-size: 0.95rem;
     padding: 0.4rem 0.8rem;
   }
+
 }
